@@ -12,7 +12,6 @@ public class GeneriStackClient {
             System.out.printf("%s", stack.pop());
         }
         System.out.println("\n1.3. Size of stack after pop operation: "+stack.size());
-throw
     }
     private static void stackOfIntergers(){
         MyGenericStack<Integer> stack = new MyGenericStack();
